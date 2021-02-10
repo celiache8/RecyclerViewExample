@@ -1,0 +1,94 @@
+{
+
+    "villagers":
+
+    [
+        {
+            "name":"Genji",
+            "birthday": "January 21",
+            "phrase":"mochi",
+            "villager": "https://vignette.wikia.nocookie.net/animalcrossing/images/6/67/Genji_NH.png/revision/latest?cb=20200322125429",
+            "house": "https://animalcrossingworld.com/wp-content/uploads/2020/05/animal-crossing-new-horizons-guide-villager-house-exterior-genji-trim.png"
+        },
+        {
+            "name":"Dobie",
+            "birthday": "February 17",
+            "phrase":"ohmmm",
+            "villager": "https://vignette.wikia.nocookie.net/animalcrossing/images/7/76/Dobie_NH.png/revision/latest?cb=20200819103512",
+            "house": "https://animalcrossingworld.com/wp-content/uploads/2020/05/animal-crossing-new-horizons-guide-villager-house-exterior-dobie-trim.png"
+        },
+      
+        {
+            "name":"Del",
+            "birthday": "May 27",
+            "phrase":"gronk",
+            "villager":"https://vignette.wikia.nocookie.net/animalcrossing/images/4/46/Del_NH.png/revision/latest?cb=20200718071400",
+            "house":"https://animalcrossingworld.com/wp-content/uploads/2020/05/animal-crossing-new-horizons-guide-villager-house-exterior-del-trim.png"
+        },
+      
+        {
+            "name":"Henry",
+            "birthday": "September 21",
+            "phrase":"snoozit",
+            "villager":  "https://dodo.ac/np/images/thumb/2/26/Henry_NH.png/300px-Henry_NH.png",
+            "house":	"https://animalcrossingworld.com/wp-content/uploads/2020/05/animal-crossing-new-horizons-guide-villager-house-exterior-henry-trim.png"
+        },
+      
+        {
+            "name":"Pekoe",
+            "birthday": "May 18",
+            "phrase":"bud",
+            "villager":   "https://vignette.wikia.nocookie.net/animalcrossing/images/d/df/Pekoe_NH.png/revision/latest?cb=20200821064720",
+            "house" : 	"https://animalcrossingworld.com/wp-content/uploads/2020/05/animal-crossing-new-horizons-guide-villager-house-exterior-pekoe-trim-305x270.png"
+      
+        },
+
+        {
+            "name":"Cherry",
+            "birthday": "May 11",
+            "phrase":"what what",
+            "villager":   "https://vignette.wikia.nocookie.net/animalcrossing/images/3/3e/Cherry_NH.png/revision/latest?cb=20200524035737",
+            "house" : 	"https://animalcrossingworld.com/wp-content/uploads/2020/05/animal-crossing-new-horizons-guide-villager-house-exterior-cherry-trim-305x279.png"
+      
+        },
+        {
+            "name":"Lucky",
+            "birthday": "November 4",
+            "phrase":"rrr-owch",
+            "villager":  "https://vignette.wikia.nocookie.net/animalcrossing/images/5/59/Lucky_NH.png/revision/latest?cb=20200802135150",
+            "house" : 	"https://animalcrossingworld.com/wp-content/uploads/2020/05/animal-crossing-new-horizons-guide-villager-house-exterior-lucky-trim-305x279.png"
+      
+        },
+        {
+            "name":"Diana",
+            "birthday": "January 4",
+            "phrase":"no doy",
+            "villager":  "https://static.wikia.nocookie.net/animalcrossing/images/1/1f/Diana_NH.png/revision/latest?cb=20200802193316",
+            "house" : 	"https://animalcrossingworld.com/wp-content/uploads/2020/05/animal-crossing-new-horizons-guide-villager-house-exterior-diana-trim-305x264.png"
+        },
+        {
+            "name":"Blanche",
+            "birthday": "December 21",
+            "phrase":"quite so",
+            "villager":   "https://static.wikia.nocookie.net/animalcrossing/images/d/df/Blanche_NH.png/revision/latest?cb=20200817185132",
+            "house" : 	"https://animalcrossingworld.com/wp-content/uploads/2020/05/animal-crossing-new-horizons-guide-villager-house-exterior-blanche-trim-305x271.png"
+
+        },
+        {
+            "name":"Joey",
+            "birthday": "January 3",
+            "phrase":"bleeeeeck",
+            "villager":  "https://static.wikia.nocookie.net/animalcrossing/images/6/66/Joey_NH.png/revision/latest?cb=20200802142738",
+            "house" : 	"https://animalcrossingworld.com/wp-content/uploads/2020/05/animal-crossing-new-horizons-guide-villager-house-exterior-joey-trim-305x318.png"
+
+        },
+        {
+            "name":"Biskit",
+            "birthday": "May 13",
+            "phrase":"dawg",
+            "villager":  "https://static.wikia.nocookie.net/animalcrossing/images/7/78/Biskit_NH.png/revision/latest?cb=20200817184441",
+            "house" : 	"https://animalcrossingworld.com/wp-content/uploads/2020/05/animal-crossing-new-horizons-guide-villager-house-exterior-biskit-trim-305x268.png"
+        }
+
+    ]
+}

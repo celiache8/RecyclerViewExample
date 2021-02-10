@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">RecyclerViewExample</string>
+    <string name="title">My Villagers</string>
+</resources>
